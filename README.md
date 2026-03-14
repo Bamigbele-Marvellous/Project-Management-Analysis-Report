@@ -1,6 +1,9 @@
 # Project-Management-Analysis-Report
 ### Project Overview
 This project dashboard provides insights into organizational project performance, including cost, benefits, project status, and regional distribution. The goal is to monitor project efficiency and assess the value generated from project investments.
+
+<img width="756" height="423" alt="Image" src="https://github.com/user-attachments/assets/ff128583-d8b9-4715-ae6c-a7330c5fb260" />
+
 ### Data Sources
 The dataset includes project management records containing:
 - Project costs
