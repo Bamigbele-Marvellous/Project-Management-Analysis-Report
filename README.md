@@ -1,4 +1,13 @@
 # Project-Management-Analysis-Report
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools)
+- [Data cleaning and preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+  
 ### Project Overview
 This project dashboard provides insights into organizational project performance, including cost, benefits, project status, and regional distribution. The goal is to monitor project efficiency and assess the value generated from project investments.
 
@@ -19,7 +28,7 @@ The dashboard was developed using:
 - Data visualization charts
 - KPI metrics to track project performance indicators
   
-Data Cleaning and Preparation
+### Data Cleaning and Preparation
 The following steps were taken to prepare the data:
 1.Checked project records for missing or incomplete entries
 2. Standardized project status categories
